@@ -27,6 +27,6 @@ Exercise your memory and have fun with Java-based Flip Flop Memory Game
 * If the cards do not match, they will flip back face down after a short delay
 * Complete the game by matching all pairs in the least amount of time
 
-😊😊😊!!!
+![Game][game.PNG]
 
 
