@@ -12,8 +12,7 @@ Exercise your memory and have fun with Java-based Flip Flop Memory Game
 ## How to Run the Game
 * Clone this Repo using "git clone https://github.com/khuzaima-a/java-flip-flop-game.git"
 * Open your command prompt and navigate to the project folder
-* Set the classpath to include the necessary libraries:
-          set classpath=,;,/Lib/*
+* Set the classpath to include the necessary libraries: "set classpath=,;,/Lib/*"
 * Compile the program using "javac FlipFlop.java"
 * Execute the compiled program "java FlipFlop"
 
