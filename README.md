@@ -15,6 +15,8 @@ Exercise your memory and have fun with Java-based Flip Flop Memory Game
 * Set the classpath to include the necessary libraries: "set classpath=,;,/Lib/*"
 * Compile the program using "javac FlipFlop.java"
 * Execute the compiled program "java FlipFlop"
+![How to Run](howtorun.PNG)
+
 
 ## How To Play
 * Press the "Start Game" button
